@@ -1,0 +1,6 @@
+<h1>Listing User <%= @user.username %></h1>
+<table class="table">
+    <tr>
+      <td><b><%= first_name(@user) %></b></td>
+    </tr>
+</table>

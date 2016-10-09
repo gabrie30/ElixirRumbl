@@ -1,0 +1,6 @@
+<div class="jumbotron">
+  <h2>Welcome to Rumble.io</h2>
+  <p class="lead">Rumble Out Loud</p>
+</div>
+
+<button>Press Me</button>
